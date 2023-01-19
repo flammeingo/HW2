@@ -1,0 +1,9 @@
+"environment":"Windows 10 Pro, Chrome 108",
+"title":"The title of the  item accordeon doesn’t match the content to German language",
+"steps":"1.Navigate to site.com 2 Scroll down 3 Select [Terms and Policies] 4 Select accordion menu [Regulatory Publications (FCA)] 5 Select [DE] language",
+"ER":"The title of the  item accordeon does match the content to German language",
+"AR":"The title of the item accordeon Veröffentlichungen der Regulierungsbehörden (CySEC) doesn’t match the content ",
+"link":"https://drive.google.com/",
+"severity":"minor",
+"priority":"low",
+"author":"flammeingo"
